@@ -5,3 +5,6 @@ npm install
 npm run dev
 https://laravel.com/docs/8.x/installation
 https://www.youtube.com/watch?v=q_-hAfYDmnE
+
+
+Joana Pernanbuco
